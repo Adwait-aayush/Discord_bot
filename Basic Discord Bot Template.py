@@ -108,7 +108,7 @@
 #         await message.channel.send(embed=embed)
 
 # # Ensure the bot token is stored securely (not hardcoded in the script)
-# TOKEN = 'MTMwNjEwNTUzODYyNjU4ODgwNg.GI_fUj.USE5pkCagQ6VtuuVj1in7DsnzdYIdsckSNF4p0' # Make sure to set the environment variable 'DISCORD_TOKEN'
+# TOKEN =''
 
 # if TOKEN is None:
 #     print("Error: Bot token is missing! Make sure it's set in the environment variables.")
